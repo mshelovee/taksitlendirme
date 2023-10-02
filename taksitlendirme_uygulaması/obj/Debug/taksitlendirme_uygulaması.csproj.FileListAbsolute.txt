@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\KORUMASIZ\10A_Hilal\taksitlendirme_uygulaması\taksitlendirme_uygulaması\bin\Debug\taksitlendirme_uygulaması.exe.config
+C:\Users\User\Desktop\KORUMASIZ\10A_Hilal\taksitlendirme_uygulaması\taksitlendirme_uygulaması\bin\Debug\taksitlendirme_uygulaması.exe
+C:\Users\User\Desktop\KORUMASIZ\10A_Hilal\taksitlendirme_uygulaması\taksitlendirme_uygulaması\bin\Debug\taksitlendirme_uygulaması.pdb
+C:\Users\User\Desktop\KORUMASIZ\10A_Hilal\taksitlendirme_uygulaması\taksitlendirme_uygulaması\obj\Debug\taksitlendirme_uygulaması.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\10A_Hilal\taksitlendirme_uygulaması\taksitlendirme_uygulaması\obj\Debug\taksitlendirme_uygulaması.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\10A_Hilal\taksitlendirme_uygulaması\taksitlendirme_uygulaması\obj\Debug\taksitlendirme_uygulaması.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\10A_Hilal\taksitlendirme_uygulaması\taksitlendirme_uygulaması\obj\Debug\taksitlendirme_uygulaması.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\10A_Hilal\taksitlendirme_uygulaması\taksitlendirme_uygulaması\obj\Debug\taksitlendirme_uygulaması.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\10A_Hilal\taksitlendirme_uygulaması\taksitlendirme_uygulaması\obj\Debug\taksitlendirme_uygulaması.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\10A_Hilal\taksitlendirme_uygulaması\taksitlendirme_uygulaması\obj\Debug\taksitlendirme_uygulaması.exe
+C:\Users\User\Desktop\KORUMASIZ\10A_Hilal\taksitlendirme_uygulaması\taksitlendirme_uygulaması\obj\Debug\taksitlendirme_uygulaması.pdb
